@@ -1,5 +1,5 @@
 import 'package:xml/xml.dart';
-import 'package:yaml/yaml.dart';
+import 'package:yaml_appstream_workaround/yaml.dart';
 
 import 'component.dart';
 import 'icon.dart';
