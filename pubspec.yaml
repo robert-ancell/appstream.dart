@@ -17,9 +17,7 @@ dependencies:
   xml: ^5.1.1
   # Appstream YAML is broken on Ubuntu - use a fork
   yaml_appstream_workaround:
-    git:
-      url: git@github.com:robert-ancell/yaml.git
-      ref: allow-duplicate-keys
+    path: packages/yaml_appstream_workaround
 
 dev_dependencies:
   lints: ^2.0.0
