@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.5
+
+* Workaround broken YAML in Ubuntu.
+
 ## 0.2.4
 
 * Only list as supporting Linux.
