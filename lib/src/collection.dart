@@ -1,5 +1,4 @@
 import 'package:xml/xml.dart';
-import 'package:yaml_appstream_workaround/yaml.dart';
 
 import 'component.dart';
 import 'icon.dart';
@@ -9,6 +8,7 @@ import 'provides.dart';
 import 'release.dart';
 import 'screenshot.dart';
 import 'url.dart';
+import 'yaml.dart';
 
 /// A collection of Appstream components.
 class AppstreamCollection {

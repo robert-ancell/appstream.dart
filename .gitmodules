@@ -1,4 +1,0 @@
-[submodule "packages/yaml_appstream_workaround"]
-	path = packages/yaml_appstream_workaround
-	url = https://github.com/robert-ancell/yaml
-	branch = allow-duplicate-keys
